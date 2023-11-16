@@ -1,0 +1,159 @@
+{
+    "questions": [
+      {
+        "text": "What is the capital of France?",
+        "options": [
+          {
+            "text": "Paris",
+            "value": "Paris"
+          },
+          {
+            "text": "London",
+            "value": "London"
+          },
+          {
+            "text": "Rome",
+            "value": "Rome"
+          },
+          {
+            "text": "Berlin",
+            "value": "Berlin"
+          }
+        ],
+        "answer": "Paris"
+      },
+      {
+        "text": "What is the largest planet in our solar system?",
+        "options": [
+          {
+            "text": "Mercury",
+            "value": "Mercury"
+          },
+          {
+            "text": "Venus",
+            "value": "Venus"
+          },
+          {
+            "text": "Earth",
+            "value": "Earth"
+          },
+          {
+            "text": "Jupiter",
+            "value": "Jupiter"
+          }
+        ],
+        "answer": "Jupiter"
+      },
+      {
+        "text": "What is the chemical symbol for gold?",
+        "options": [
+          {
+            "text": "Ag",
+            "value": "Ag"
+          },
+          {
+            "text": "Au",
+            "value": "Au"
+          },
+          {
+            "text": "Cu",
+            "value": "Cu"
+          },
+          {
+            "text": "Fe",
+            "value": "Fe"
+          }
+        ],
+        "answer": "Au"
+      },
+      {
+        "text": "Who wrote the novel 'Pride and Prejudice'?",
+        "options": [
+          {
+            "text": "Jane Austen",
+            "value": "Jane Austen"
+          },
+          {
+            "text": "Charlotte Brontë",
+            "value": "Charlotte Brontë"
+          },
+          {
+            "text": "Emily Brontë",
+            "value": "Emily Brontë"
+          },
+          {
+            "text": "George Eliot",
+            "value": "George Eliot"
+          }
+        ],
+        "answer": "Jane Austen"
+      },
+      {
+        "text": "What is the capital of Spain?",
+        "options": [
+          {
+            "text": "Madrid",
+            "value": "Madrid"
+          },
+          {
+            "text": "Lisbon",
+            "value": "Lisbon"
+          },
+          {
+            "text": "Rome",
+            "value": "Rome"
+          },
+          {
+            "text": "Berlin",
+            "value": "Berlin"
+          }
+        ],
+        "answer": "Madrid"
+      },
+      {
+        "text": "What is the world's largest ocean?",
+        "options": [
+          {
+            "text": "Pacific Ocean",
+            "value": "Pacific Ocean"
+          },
+          {
+            "text": "Atlantic Ocean",
+            "value": "Atlantic Ocean"
+          },
+          {
+            "text": "Indian Ocean",
+            "value": "Indian Ocean"
+          },
+          {
+            "text": "Arctic Ocean",
+            "value": "Arctic Ocean"
+          }
+        ],
+        "answer": "Pacific Ocean"
+      },
+      {
+        "text": "What is the chemical formula for water?",
+        "options": [
+          {
+            "text": "H2O",
+            "value": "H2O"
+          },
+          {
+            "text": "CO2",
+            "value": "CO2"
+          },
+          {
+            "text": "NaCl",
+            "value": "NaCl"
+          },
+          {
+            "text": "H2SO4",
+            "value": "H2SO4"
+          }
+        ],
+        "answer": "H2O"
+      }
+    ]
+}
+  
