@@ -1,0 +1,4 @@
+if i ask it to give me the full answer,
+then it may change some function, but the effect of those changes
+is not reflected in other parts of the script.
+

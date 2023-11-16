@@ -1,0 +1,5 @@
+after 10 or so prompts, it is not giving me the desired result
+so these ai agents are there to assist give a hand, still they make errors like uninitialised vars,
+no reference to vars, etc.
+good at giving boiler plate code or
+integrating some functionality to  already existing code when one is already familiar with the existing codebase

@@ -1,0 +1,61 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": [
+          "London",
+          "Paris",
+          "Berlin",
+          "Rome"
+        ],
+        "correct_answer": "Paris",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the largest country in the world by area?",
+        "options": [
+          "Russia",
+          "China",
+          "Canada",
+          "United States"
+        ],
+        "correct_answer": "Russia",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+          "Au",
+          "Ag",
+          "Cu",
+          "Fe"
+        ],
+        "correct_answer": "Au",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the largest ocean on Earth?",
+        "options": [
+          "Pacific Ocean",
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Arctic Ocean"
+        ],
+        "correct_answer": "Pacific Ocean",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the Roman god of the sea?",
+        "options": [
+          "Neptune",
+          "Poseidon",
+          "Zeus",
+          "Hades"
+        ],
+        "correct_answer": "Neptune",
+        "difficulty": "hard"
+      }
+    ]
+}
+          
+  
