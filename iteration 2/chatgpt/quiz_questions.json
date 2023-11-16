@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Jupiter", "Mars", "Saturn", "Venus"],
+    "answer": "Mars",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "answer": "Leonardo da Vinci",
+    "difficulty": "easy"
+  }
+]

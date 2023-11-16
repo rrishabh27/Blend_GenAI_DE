@@ -1,0 +1,1 @@
+Modular code and within a few prompts now but still uninitialised variables and bard does not resolve them
