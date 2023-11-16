@@ -1,0 +1,98 @@
+[
+    {
+        "text": "What is the capital of France?",
+        "answers": ["London", "Paris", "Berlin", "Rome"],
+        "correct_answer": 1,
+        "difficulty": 1
+    },
+    {
+        "text": "What is the largest country in the world by land area?",
+        "answers": ["Russia", "Canada", "China", "United States"],
+        "correct_answer": 0,
+        "difficulty": 1
+    },
+    {
+        "text": "What is the name of the smallest bone in the human body?",
+        "answers": ["The stapes", "The incus", "The malleus", "The femur"],
+        "correct_answer": 0,
+        "difficulty": 1
+    },
+    {
+        "text": "What is the chemical symbol for gold?",
+        "answers": ["Au", "Ag", "Cu", "Fe"],
+        "correct_answer": 0,
+        "difficulty": 1
+    },
+    {
+        "text": "What is the name of the first person to walk on the moon?",
+        "answers": ["Neil Armstrong", "Buzz Aldrin", "Michael Collins", "Alan Shepard"],
+        "correct_answer": 0,
+        "difficulty": 1
+    },
+    {
+        "text": "What is the name of the river that flows through Paris?",
+        "answers": ["The Seine", "The Thames", "The Tiber", "The Danube"],
+        "correct_answer": 0,
+        "difficulty": 1
+    },
+    {
+        "text": "What is the name of the largest ocean on Earth?",
+        "answers": ["The Pacific Ocean", "The Atlantic Ocean", "The Indian Ocean", "The Arctic Ocean"],
+        "correct_answer": 0,
+        "difficulty": 1
+    },
+    {
+        "text": "What is the name of the capital of Italy?",
+        "answers": ["Rome", "Milan", "Naples", "Turin"],
+        "correct_answer": 0,
+        "difficulty": 1
+    },
+    {
+        "text": "What is the name of the author of the book 'Pride and Prejudice'?",
+        "answers": ["Jane Austen", "Charlotte Brontë", "Emily Brontë", "George Eliot"],
+        "correct_answer": 0,
+        "difficulty": 1
+    },
+    {
+        "text": "What is the name of the chemical element that is represented by the symbol H?",
+        "answers": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+        "correct_answer": 0,
+        "difficulty": 1
+    },
+    {
+        "text": "What is the sum of 2 and 2?",
+        "answers": ["4", "3", "2", "1"],
+        "correct_answer": 0,
+        "difficulty": 2
+    },
+    {
+        "text": "What is the product of 3 and 4?",
+        "answers": ["12", "10", "8", "6"],
+        "correct_answer": 0,
+        "difficulty": 2
+    },
+    {
+        "text": "What is the difference between 10 and 5?",
+        "answers": ["5", "4", "3", "2"],
+        "correct_answer": 0,
+        "difficulty": 2
+    },
+    {
+        "text": "What is the quotient of 16 divided by 4?",
+        "answers": ["4", "5", "6", "7"],
+        "correct_answer": 0,
+        "difficulty": 2
+    },
+    {
+        "text": "What is the square root of 9?",
+        "answers": ["3", "2", "1", "0"],
+        "correct_answer": 0,
+        "difficulty": 2
+    },
+    {
+        "text": "What is the cube root of 27?",
+        "answers": ["3", "2", "1", "0"],
+        "correct_answer": 0,
+        "difficulty": 3
+    }
+]
